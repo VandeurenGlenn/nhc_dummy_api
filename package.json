@@ -1,0 +1,22 @@
+{
+  "name": "nhc_dummy_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dummy",
+    "api",
+    "niko",
+    "home",
+    "control"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lucky-numbers": "^1.2.0"
+  }
+}
